@@ -1,7 +1,7 @@
 //
 //  main.cpp
 //  staircase
-//  Finds the floor value of input x, without casting or roundinge
+//  Finds the floor value of input x, without casting or rounding
 //
 //  Created by Fion Lin on 2020-09-12.
 //  Copyright © 2020 Fion Lin. All rights reserved.
